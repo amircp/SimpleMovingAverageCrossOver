@@ -1,5 +1,5 @@
 
-# Simple Moving Average Crossover Strategy
+# Simple Moving Average Crossover Trading Strategy
 
 
 Install dependencies:
