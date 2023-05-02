@@ -15,3 +15,4 @@ The strategy takes the close prices and gets the 5 and 30 moving averages in ord
 
 The signals are going to be plotted into the chart using MPL Finance library.
 
+![Captura de Pantalla 2023-05-02 a la(s) 12 11 56](https://user-images.githubusercontent.com/495849/235752058-85a9092e-0447-4427-bcbb-05ee00cad6c4.png)
