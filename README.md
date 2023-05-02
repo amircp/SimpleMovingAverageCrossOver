@@ -6,6 +6,8 @@ Install dependencies:
 ```
 pip install mplfinance
 pip install yfinance
+pip install pandas
+pip install numpy
 ```
 
 Just clone this repostiory and run the main script or open and run it into a jupyter book.
